@@ -25,7 +25,7 @@ These flags define the asset to be loaded into the environment:
 | Flag | Description | Examples |
 | :---- | :---- | :---- |
 | \--load.place \<path\> | Loads a Roblox Place file (.rbxlx, .rbxl) into the environment. | \--load.place TestPlace.rbxlx |
-| \--load.model \<path\> | Loads a Roblox Model file (.rbxm, .rbxmx) or a rojo project file (.project.json) into the environment and parents it to ReplicatedStorage. | \--load.model ci.rbxm, \--load.model tests.project.json |
+| \--load.model \<path\> | Loads a Roblox Model file (.rbxm, .rbxmx) or a rojo project file (.project.json) into the environment. Most likely parented to TestService? | \--load.model ci.rbxm, \--load.model tests.project.json |
 
 ### **Execution Arguments**
 
