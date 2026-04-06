@@ -12,7 +12,7 @@ All this information is from publicly accessible sources.
 
 ## ***run*** **Subcommand**
 
-The run subcommand is the primary way to launch a Roblox environment (headless DataModel to execute scripts, run tests, or perform benchmarks on projects)
+The run subcommand is the primary way to launch a Roblox environment (headless non-networked DataModel to execute scripts, run tests, or perform benchmarks on projects)
 
 ### **Usage**
 
